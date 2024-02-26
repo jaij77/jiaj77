@@ -1,0 +1,4 @@
+LIB_DIR="${DEPL_DIR}/lib" 
+CDSLIB_DIR="${LIB_DIR}/cdslib" 
+ 
+# Sun Java System Application Server CLASSPATH Constant 
