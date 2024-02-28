@@ -1,0 +1,4 @@
+Hashtable apiContext = (Hashtable) session.getAttribute("API_CONTEXT"); 
+ 
+// Set up the input parameters 
+Vector parameters = new Vector(); 
