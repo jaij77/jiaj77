@@ -1,0 +1,5 @@
+// Sample to run dry query on the table
+public class QueryDryRun {
+
+  public static void main(String[] args) {
+    String query =
