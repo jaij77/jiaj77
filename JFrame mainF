@@ -1,0 +1,6 @@
+ 
+    private final JFrame mainF;
+    private int style;
+ 
+    public TankWar(String map, int tankMax, JFrame mainF, int style)
+            throws Exception {
