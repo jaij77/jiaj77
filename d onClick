@@ -1,0 +1,7 @@
+             new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        finish();
+                    }
+                });
+        nextLevel.setCancelable(false);
