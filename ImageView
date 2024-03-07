@@ -1,0 +1,8 @@
+        nextLevel.setCancelable(false);
+        nextLevel.show();
+    }
+ 
+    public void gameOver() {
+        playVoice(Const.voiceGameover);
+        ImageView imgView = new ImageView(mContext);
+        imgView.setBackgroundColor(getResources().getColor(
