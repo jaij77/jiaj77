@@ -1,0 +1,3 @@
+@RequestMapping("/skywalking") public class AlarmController {
+
+    @Autowired private DingTalkAlarmService dingTalkAlarmService;
